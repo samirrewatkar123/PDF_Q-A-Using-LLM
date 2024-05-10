@@ -1,1 +1,3 @@
 # PDF_Q-A-Using-LLM
+
+In this Project I have illustrated an example of how we can build a chatbot to query multiple PDF documents (size upto 200Mb) using Langchain, Facebook A.I. Similarity Search (F.A.I.S.S.), and the Google Gemini API. The goal is to create a chat interface where users can ask questions related to the PDF’s content, and the system will provide relevant answers based on the text in the uploaded PDF’s .
